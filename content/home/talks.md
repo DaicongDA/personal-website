@@ -29,9 +29,9 @@ subtitle = ""
     category = ""
     publication_type = ""
     author = "Da D., Yvonnet J., Xia L."
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
+    exclude_featured = true
+    exclude_past = true
+    exclude_future = true
     
 [design]
   # Toggle between the various page layout types.
