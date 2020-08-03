@@ -100,7 +100,7 @@ address = {street = "1513 University Ave", city = "Madison", region = "WI", post
 coordinates = ""
 
 # Directions for visitors to locate you.
-directions = "Mechanical Engineering Building"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
