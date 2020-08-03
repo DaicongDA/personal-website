@@ -18,17 +18,17 @@ subtitle = ""
   count = 5
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Optimisation topologique de composites pour maximiser la résistance à la fracture"
     category = ""
     publication_type = ""
-    author = ""
+    author = "Da D., Yvonnet J., Xia L."
     exclude_featured = false
     exclude_past = false
     exclude_future = false
