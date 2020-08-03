@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am committed to computational mechanics, structural optimization design, additive manufacturing and its multidisciplinary application related research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+To the introduction of the topology optimization of composite material structure for the first time from the initial stress, crack nucleation and crack propagation, and even completely destroy the fracture resistance of the whole structure design, and use the current computational mechanics/final frontier of fracture mechanics and the phase field method is booming, to structure the whole process of crack propagation in the numerical simulation of the complete manufacturing method for the combination of emerging increase material control composite materials from the initial to the failure to provide theoretical basis for optimum design of the whole process.
