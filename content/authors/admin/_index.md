@@ -34,7 +34,7 @@ education:
   - course: Ph.D. in Mechanical Engineering
     institution: Hunan University
     year: 2018
-  - course: BSc. in Mechanical Engineering
+  - course: B.Sc. in Mechanical Engineering
     institution: Kunming University of Science & Technology
     year: 2013
 
