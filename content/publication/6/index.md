@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-  url_pdf: https://www.researchgate.net/profile/Daicong_Da/publication/312598753_Design_of_materials_using_hybrid_cellular_automata/links/5b8910a2299bf1d5a73384be/Design-of-materials-using-hybrid-cellular-automata.pdf
+# url_pdf: https://www.researchgate.net/profile/Daicong_Da/publication/312598753_Design_of_materials_using_hybrid_cellular_automata/links/5b8910a2299bf1d5a73384be/Design-of-materials-using-hybrid-cellular-automata.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
