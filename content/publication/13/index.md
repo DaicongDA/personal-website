@@ -18,10 +18,10 @@ publication_types: ["5"]
 publication: In *John Wiley & Sons*
 publication_short: ""
 
-abstract:"This book pursues optimal design from the perspective of mechanical properties and resistance to failure caused by cracks and fatigue. The book abandons the scale separation hypothesis and takes up phase-field modeling, which is at the cutting edge of research and is of high industrial and practical relevance."
+# abstract:hab
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This book pursues optimal design from the perspective of mechanical properties and resistance to failure caused by cracks and fatigue. The book abandons the scale separation hypothesis and takes up phase-field modeling, which is at the cutting edge of research and is of high industrial and practical relevance.
 
 tags:
 - Source Themes
