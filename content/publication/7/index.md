@@ -39,7 +39,7 @@ featured: false
 
 # links:
 # - name: ""
-   url: "https://www.emerald.com/insight/content/doi/10.1108/EC-01-2018-0007/full/html"
+# url: "https://www.emerald.com/insight/content/doi/10.1108/EC-01-2018-0007/full/html"
 # url_pdf: https://www.researchgate.net/profile/Daicong_Da/publication/312598753_Design_of_materials_using_hybrid_cellular_automata/links/5b8910a2299bf1d5a73384be/Design-of-materials-using-hybrid-cellular-automata.pdf
 url_code: ''
 url_dataset: ''
