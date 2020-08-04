@@ -1,7 +1,7 @@
 ---
 title: "Evolutionary topology optimization of continuum structures with smooth boundary representation"
 authors:
-- **admin**
+- admin
 - Liang XIA
 - Guangyao LI
 - Xiaodong HUANG
