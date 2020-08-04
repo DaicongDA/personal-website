@@ -2,7 +2,7 @@
 title: "Robust topology optimization for multi-material structures under interval uncertainty"
 authors:
 - Yongfeng ZHENG
-- admin
+- **admin**
 - Has LI
 - Mi XIAO
 - Liang GAO
