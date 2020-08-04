@@ -1,7 +1,7 @@
 ---
 title: "Design of materials using hybrid cellular automata"
 authors:
-- **admin**
+- admin
 - Jiahui CHEN
 - Xiangyang CUI 
 - Guangyao LI
