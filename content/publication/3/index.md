@@ -1,7 +1,7 @@
 ---
 title: "Topology optimization of periodic lattice structures taking into account strain gradient"
 authors:
-- **admin**
+- admin
 - Julien Yvonnet
 - Liang XIA 
 - Minh Vuong Le
