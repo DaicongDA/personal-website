@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Optimisation topologique de composites pour maximiser la résistance à la fracture"
+    tag = ""
     category = ""
     publication_type = ""
-    author = "Da D., Yvonnet J., Xia L."
+    author = ""
     exclude_featured = true
     exclude_past = true
     exclude_future = true
