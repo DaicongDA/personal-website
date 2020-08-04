@@ -1,8 +1,6 @@
 ---
 title: "Fracture Resistance Design through Biomimicry and Topology Optimization"
-authors:
-- **admin**
-- Xiaoping Qian
+authors = ['**admin**','Xiaoping Qian']
 author_notes:
 - ""
 - ""
