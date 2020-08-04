@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 # url: "https://www.emerald.com/insight/content/doi/10.1108/EC-01-2018-0007/full/html"
-  url_pdf: https://www.researchgate.net/profile/Daicong_Da/publication/323480941_Design_of_material_microstructures_for_maximum_effective_elastic_modulus_and_macrostructures/links/5aeab85345851588dd8292fb/Design-of-material-microstructures-for-maximum-effective-elastic-modulus-and-macrostructures.pdf
+# url_pdf: https://www.researchgate.net/profile/Daicong_Da/publication/323480941_Design_of_material_microstructures_for_maximum_effective_elastic_modulus_and_macrostructures/links/5aeab85345851588dd8292fb/Design-of-material-microstructures-for-maximum-effective-elastic-modulus-and-macrostructures.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
