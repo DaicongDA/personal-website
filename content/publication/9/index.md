@@ -1,7 +1,7 @@
 ---
 title: "Design of material microstructures for maximum effective elastic modulus and macrostructures"
 authors:
-- **admin**
+- admin
 - Xiangyang CUI
 - Kai LONG
 - Guanxin HUANG
