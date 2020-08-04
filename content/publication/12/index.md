@@ -2,7 +2,7 @@
 title: "Multiscale topology optimization for non-uniform microstructures with hybrid cellular automata"
 authors:
 - Jiao JIA
-- admin
+- **admin**
 - Cha-Liang LOH
 - Haibin ZHAO
 - Sha YIN
