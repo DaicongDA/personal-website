@@ -14,7 +14,7 @@ baseurl = "https:/daicongda.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Daicong DA &copy; 2020"
+copyright = "&copy; 2020 Daicong DA"
 
 ############################
 ## Advanced options below ##
