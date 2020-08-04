@@ -39,7 +39,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://www.sciencedirect.com/science/article/abs/pii/S0307904X19306079?via%3Dihub"
+# url: "https://www.sciencedirect.com/science/article/abs/pii/S0307904X19306079?via%3Dihub"
 # url_pdf: https://www.researchgate.net/profile/Daicong_Da/publication/323480941_Design_of_material_microstructures_for_maximum_effective_elastic_modulus_and_macrostructures/links/5aeab85345851588dd8292fb/Design-of-material-microstructures-for-maximum-effective-elastic-modulus-and-macrostructures.pdf
 url_code: ''
 url_dataset: ''
