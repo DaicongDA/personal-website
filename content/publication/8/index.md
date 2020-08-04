@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 # url: "https://www.emerald.com/insight/content/doi/10.1108/EC-01-2018-0007/full/html"
-  url_pdf: https://www.researchgate.net/profile/Liang_Xia/publication/320609662_Evolutionary_topology_optimization_of_continuum_structures_with_smooth_boundary_representation/links/59f1babca6fdcc1dc7b920c6/Evolutionary-topology-optimization-of-continuum-structures-with-smooth-boundary-representation.pdf
+# url_pdf: https://www.researchgate.net/profile/Liang_Xia/publication/320609662_Evolutionary_topology_optimization_of_continuum_structures_with_smooth_boundary_representation/links/59f1babca6fdcc1dc7b920c6/Evolutionary-topology-optimization-of-continuum-structures-with-smooth-boundary-representation.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
