@@ -1,12 +1,12 @@
 ---
 title: "Fracture Resistance Design through Biomimicry and Topology Optimization"
 authors:
-- admin
+- **admin**
 - Xiaoping Qian
 author_notes:
 - ""
 - ""
-date: "2020-07-01T00:00:00Z"
+date: "2020-07-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
