@@ -2,11 +2,11 @@
 title: "Topology Optimization for Maximizing the Fracture Resistance of Periodic Quasi-Brittle Composite Structures"
 authors:
 - admin
-- Yvonnet Julien
+- Julien Yvonnet
 author_notes:
 - ""
 - ""
-date: ""
+date: "2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
