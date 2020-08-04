@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Université Paris-Est"
   company_url = ""
   location = "Paris"
-  date_start = "2016"
-  date_end = "2019"
+  date_start = "2016-11-01"
+  date_end = "2019-02-01"
 # description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
