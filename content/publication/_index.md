@@ -1,5 +1,5 @@
 ---
-title: Topology Optimization Design of Heterogeneous Materials and Structures
+title: Publications
 
 # View.
 #   1 = List
