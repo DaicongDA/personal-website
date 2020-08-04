@@ -1,7 +1,7 @@
 ---
 title: "Topology optimization of particle-matrix composites for optimal fracture resistance taking into account interfacial damage"
 authors:
-- admin
+- **admin**
 - Julien Yvonnet
 - Liang XIA 
 - Guangyao LI
