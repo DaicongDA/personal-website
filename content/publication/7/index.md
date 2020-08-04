@@ -1,7 +1,7 @@
 ---
 title: "Multiscale concurrent topology optimization of structures and microscopic multi-phase materials for thermal conductivity"
 authors:
-- admin
+- **admin**
 - Xiangyang CUI
 - Kai LONG
 - Yong CAI 
