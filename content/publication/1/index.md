@@ -4,13 +4,13 @@ authors:
 - admin
 - Xiaoping Qian
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2020"
+- ""
+- ""
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2020"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
