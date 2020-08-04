@@ -1,7 +1,7 @@
 ---
 title: "Concurrent topological design of composite structures and the underlying multi-phase materials"
 authors:
-- admin
+- **admin**
 - Xiangyang CUI
 - Kai LONG
 - Guangyao LI
