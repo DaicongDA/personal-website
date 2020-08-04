@@ -2,7 +2,7 @@
 title: "Topology optimization for maximizing the fracture resistance of quasi-brittle composites"
 authors:
 - Liang XIA
-- **admin**
+- admin
 - Julien Yvonnet
 author_notes:
 - ""
