@@ -3,7 +3,7 @@ title: Optimisation topologique de composites pour maximiser la résistance à l
 event: 14ème Colloque National en Calcul des Structures
 # event_url: https://example.org
 
-location: Presqu’île de Giens·France
+location: Presqu’île de Giens,France
 address:
   # street: 450 Serra Mall
   city: Presqu’île de Giens
@@ -16,8 +16,8 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-05-13"
-date_end: "2019-05-17"
+date: "2019-05-13T13:00:00Z"
+date_end: "2019-05-17T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
