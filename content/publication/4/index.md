@@ -1,5 +1,5 @@
 ---
-title: "Topology optimization for maximizing the fracture resistance of quasi-brittle composites"
+title: "Topology optimization for maximizing the fracture resistance of periodic quasi-brittle composites"
 authors:
 - Liang XIA
 - admin
