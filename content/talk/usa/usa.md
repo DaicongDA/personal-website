@@ -4,18 +4,18 @@ event: 14ème Colloque National en Calcul des Structures
 # event_url: https://example.org
 
 location: Presqu’île de Giens, France
-address:
+# address:
   # street: 450 Serra Mall
-  city: Presqu’île de Giens
+  # city: Presqu’île de Giens
   # region: CA
   # postcode: '94305'
-  country: France
+  # country: France
 
 # summary: An example talk using Academic's Markdown slides feature.
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+# End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-05-13T13:00:00Z"
 date_end: "2019-05-17T15:00:00Z"
 all_day: false
