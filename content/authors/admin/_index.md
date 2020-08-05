@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Mechanical Engineering
+  - course: Ph.D. in Mécanique
     institution: Université Paris-Est
     year: 2019
   - course: Ph.D. in Mechanical Engineering
