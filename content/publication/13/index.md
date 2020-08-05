@@ -23,14 +23,14 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 summary: This book pursues optimal design from the perspective of mechanical properties and resistance to failure caused by cracks and fatigue. The book abandons the scale separation hypothesis and takes up phase-field modeling, which is at the cutting edge of research and is of high industrial and practical relevance.
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: true
 
 links:
-- name: Custom Link
+# - name: Custom Link
 # url: http://example.org
-# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://books.google.com/books?hl=en&lr=&id=72LHDwAAQBAJ&oi=fnd&pg=PP2&dq=info:Aa-pUIA13ooJ:scholar.google.com&ots=FDttEVtk4C&sig=VcriFaP-3zwueeEjSYMD_n2o0gI#v=onepage&q&f=false
 url_code: ''
 url_dataset: ''
 url_poster: ''
