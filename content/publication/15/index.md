@@ -35,10 +35,10 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 # - name: ""
 # url: "https://link.springer.com/article/10.1007/s00158-020-02533-3"
-# url_pdf: https://www.researchgate.net/profile/Daicong_Da/publication/323480941_Design_of_material_microstructures_for_maximum_effective_elastic_modulus_and_macrostructures/links/5aeab85345851588dd8292fb/Design-of-material-microstructures-for-maximum-effective-elastic-modulus-and-macrostructures.pdf
+url_pdf: http://congress.cimne.com/eccm_ecfd2018/admin/files/fileabstract/a634.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
