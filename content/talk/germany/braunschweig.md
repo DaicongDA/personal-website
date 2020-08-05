@@ -1,9 +1,9 @@
 ---
-title: Multiscale Topological design optimization of heterogeneous materials and structures without scale separation
-event: 13th World Congress on Computational Mechanics
+title: Topology optimization of composite structures for fracture resistance with phase field modeling of crack propagation
+event: 12th World Congress of Structural and Multidisciplinary Optimisation
 # event_url: https://example.org
 
-location: New York, United State
+location: Braunschweig, Germany
 # address:
   # street: 450 Serra Mall
   # city: Presqu’île de Giens
@@ -16,7 +16,7 @@ location: New York, United State
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-07-13"
+date: "2017-06-10"
 # date_end: "2019-05-17"
 all_day: true
 
@@ -24,7 +24,7 @@ all_day: true
 # publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: Session chair
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
