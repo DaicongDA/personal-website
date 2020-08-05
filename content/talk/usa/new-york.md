@@ -1,9 +1,9 @@
 ---
-title: Optimisation topologique de composites pour maximiser la résistance à la fracture
-event: 14ème Colloque National en Calcul des Structures
+title: Multiscale Topological design optimization of heterogeneous materials and structures without scale separation(Session chair)
+event: 13th World Congress on Computational Mechanics
 # event_url: https://example.org
 
-location: Presqu’île de Giens, France
+location: New York, United State
 # address:
   # street: 450 Serra Mall
   # city: Presqu’île de Giens
@@ -16,8 +16,8 @@ location: Presqu’île de Giens, France
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-05-13"
-date_end: "2019-05-17"
+date: "2018-07-13"
+# date_end: "2019-05-17"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
