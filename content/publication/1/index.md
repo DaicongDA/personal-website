@@ -31,9 +31,9 @@ publication_short: ""
 # - Source Themes
 featured: false
 
-links:
+# links:
 # - name: Custom Link
-  url: https://www.sciencedirect.com/science/article/abs/pii/S2352431620301632
+#  url: https://www.sciencedirect.com/science/article/abs/pii/S2352431620301632
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
