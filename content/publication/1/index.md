@@ -32,8 +32,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-publication_url: https://www.sciencedirect.com/science/article/abs/pii/S2352431620301632
+# - name: Custom Link
+# publication_url: https://www.sciencedirect.com/science/article/abs/pii/S2352431620301632
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
