@@ -16,8 +16,8 @@ location: Presqu’île de Giens, France
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-05-13T13:00:00Z"
-date_end: "2019-05-17T15:00:00Z"
+date: "2019-05-13"
+# date_end: "2019-05-17"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
