@@ -27,13 +27,13 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 links:
 # - name: Custom Link
-url: https://www.sciencedirect.com/science/article/abs/pii/S2352431620301632
+  url: https://www.sciencedirect.com/science/article/abs/pii/S2352431620301632
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
