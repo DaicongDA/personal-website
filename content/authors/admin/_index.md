@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include structural optimization, material design, multiscale modeling and fracture modeling.
 
 interests:
 - Structural Optimization
@@ -49,9 +49,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.fr/citations?user=mi3MNkkAAAAJ&hl=en
-# - icon: github
-# icon_pack: fab
-# link: https://github.com/gcushen
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Daicong_Da
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,9 +63,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am committed to computational mechanics, structural optimization design, additive manufacturing and its multidisciplinary application related research.
