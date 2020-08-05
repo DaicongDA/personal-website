@@ -3,7 +3,7 @@ title: Multiscale Topological optimization of complex heterogeneous materials an
 event: Huazhong University of Science and Technology
 # event_url: https://example.org
 
-location:Wuhan, China
+location: Wuhan, China
 # address:
   # street: 450 Serra Mall
   # city: Presqu’île de Giens
