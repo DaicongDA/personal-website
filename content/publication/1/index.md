@@ -2,7 +2,7 @@
 title: "Fracture Resistance Design through Biomimicry and Topology Optimization"
 authors:
 - admin
-- Xiaoping Qian
+- Xiaoping QIAN
 author_notes:
 - ""
 - ""
