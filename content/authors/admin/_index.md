@@ -68,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-Daicong DA is a postdoctpral researcher in the department of mechanical engineering at University of Wisconsin-Madison. He is interested in research work related to computational mechanics, structural optimization design, additive manufacturing and its multidisciplinary applications.
+Daicong DA is a postdoctoral researcher in the department of mechanical engineering at University of Wisconsin-Madison. He is interested in research work related to computational mechanics, structural optimization design, additive manufacturing and its multidisciplinary applications.
