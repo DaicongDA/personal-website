@@ -68,6 +68,4 @@ email: ""
 # - Visitors
 ---
 
-I am committed to computational mechanics, structural optimization design, additive manufacturing and its multidisciplinary application related research.
-
-To the introduction of the topology optimization of composite material structure for the first time from the initial stress, crack nucleation and crack propagation, and even completely destroy the fracture resistance of the whole structure design, and use the current computational mechanics/final frontier of fracture mechanics and the phase field method is booming, to structure the whole process of crack propagation in the numerical simulation of the complete manufacturing method for the combination of emerging increase material control composite materials from the initial to the failure to provide theoretical basis for optimum design of the whole process.
+Daicong DA is a posdoctral researcher in the department of mechanical engineering at Univeristy of Wisconsin-Madison. He is interested in research work related to computational mechanics, structural optimization design, additive manufacturing and its multidisciplinary applications.
