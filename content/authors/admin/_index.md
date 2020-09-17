@@ -14,11 +14,11 @@ role: Postoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Wisconsin-Madison
+- name: Northwestern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural optimization, material design, multiscale modeling and fracture modeling.
+bio: My main research interests deal with material and structural design and optimization, multiscale methods and fracture modeling in heterogeneous materials, as well as bio-inspired materials and data-driven science.
 
 interests:
 - Structural Optimization
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:dda@wisc.edu' #contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:dda@northwestern.edu' #contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 # icon_pack: fab
 # link: https://twitter.com/GeorgeCushen
@@ -68,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-Daicong DA is a postdoctoral researcher in the department of mechanical engineering at University of Wisconsin-Madison. He is interested in research work related to computational mechanics, structural optimization design, additive manufacturing and its multidisciplinary applications.
+Daicong DA is a postdoctoral researcher in the Integrated DEsign Automation Laboratory (IDEAL), department of mechanical engineering at Northwestern University. His main research interests deal with material and structural design and optimization, multiscale methods and fracture modeling in heterogeneous materials, as well as bio-inspired materials and data-driven science.
