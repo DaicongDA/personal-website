@@ -15,13 +15,13 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 7
+  count = 8
   
   # Choose how many pages you would like to offset by
-  offset = 7
+  offset = 6
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "asc"
+  order = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
