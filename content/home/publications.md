@@ -18,10 +18,10 @@ subtitle = ""
   count = 8
   
   # Choose how many pages you would like to offset by
-  offset = 6
+  offset = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = ""
+  order = "asc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
