@@ -15,7 +15,7 @@ role: Postoctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: Northwestern University
-  url: ""
+  url: https://ideal.mech.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main research interests deal with material and structural design and optimization, multiscale methods and fracture modeling in heterogeneous materials, as well as bio-inspired materials and data-driven science.
