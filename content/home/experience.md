@@ -19,11 +19,26 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Postdoctoral Research Associate"
+  company = "Northwestern University"
+  company_url = ""
+  location = "Illinois"
+  date_start = "2020-09-01"
+  date_end = ""
+# description = """
+# Responsibilities include:
+# 
+#  * Analysing
+#  * Modelling
+#  * Deploying
+#  """
+
+[[experience]]
+  title = "Postdoctoral Research Associate"
   company = "University of Wisconsin-Madison"
   company_url = ""
   location = "Wisconsin"
   date_start = "2019-07-26"
-  date_end = ""
+  date_end = "2020-08-31"
 # description = """
 # Responsibilities include:
 # 
@@ -39,6 +54,7 @@ date_format = "2006"
   location = "Paris"
   date_start = "2016-11-01"
   date_end = "2019-02-01"
-# description = """Taught electronic engineering and researched semiconductor physics."""
+# description = """
+# """
 
 +++
