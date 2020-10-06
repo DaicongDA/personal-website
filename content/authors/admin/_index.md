@@ -25,6 +25,7 @@ interests:
 - Material Design
 - Multiscale Modeling
 - Fracture Modeling
+- Machine Learning
 
 education:
   courses:
