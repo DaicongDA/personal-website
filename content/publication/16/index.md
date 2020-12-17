@@ -1,9 +1,9 @@
 ---
 title: "Efficient topology optimization based on DOF reduction and convergence acceleration methods"
 authors:
-- Wei Zheng
-- Yingjun Wang
-- Yongfeng Zheng 
+- Wei ZHENG
+- Yingjun WANG
+- Yongfeng ZHENG 
 - admin
 author_notes:
 - ""
