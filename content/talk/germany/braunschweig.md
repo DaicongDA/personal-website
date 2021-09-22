@@ -1,5 +1,5 @@
 ---
-title: Topology optimization of composite structures for fracture resistance with phase field modeling of crack propagation
+title: Topology Optimization of Composite Structures for Fracture Resistance with Phase Field Modeling of Crack Propagation
 event: 12th World Congress of Structural and Multidisciplinary Optimisation
 # event_url: https://example.org
 
