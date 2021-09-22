@@ -1,5 +1,5 @@
 ---
-title: Topology Optimization for Maximizing the Fracture Resistance of Quasi-Brittle Composites
+title: Topology Optimization for Maximizing the Fracture Resistance of Quasi-brittle Composites
 event: 6th European Conference on Computational Mechanics
 # event_url: https://example.org
 
