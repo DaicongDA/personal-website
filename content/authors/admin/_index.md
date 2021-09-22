@@ -50,6 +50,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Daicong_Da
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Daicong-Da
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +69,4 @@ email: ""
 # - Visitors
 ---
 
-Daicong DA is a postdoctoral scholar in the Integrated DEsign Automation Laboratory (IDEAL), Department of Mechanical Engineering at Northwestern University. His main research interests deal with material and structural design and optimization, multiscale methods and fracture modeling in heterogeneous materials, as well as bio-inspired materials and data-driven science.
+Daicong DA is a postdoctoral scholar in the **Integrated DEsign Automation Laboratory (IDEAL)**, Department of Mechanical Engineering at Northwestern University. His main research interests deal with material and structural design and optimization, multiscale methods and fracture modeling in heterogeneous materials, as well as bio-inspired materials and data-driven science.
