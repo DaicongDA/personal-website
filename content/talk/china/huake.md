@@ -1,5 +1,5 @@
 ---
-title: Multiscale Topological optimization of complex heterogeneous materials and structures
+title: Multiscale topological optimization of complex heterogeneous materials and structures
 event: Huazhong University of Science and Technology
 # event_url: https://example.org
 
