@@ -69,4 +69,4 @@ email: ""
 # - Visitors
 ---
 
-Daicong DA is a postdoctoral scholar in the **Integrated DEsign Automation Laboratory (IDEAL)**, Department of Mechanical Engineering at Northwestern University. His main research interests deal with material and structural design and optimization, multiscale methods and fracture modeling in heterogeneous materials, as well as bio-inspired materials and data-driven science.
+Daicong DA is a postdoctoral scholar in the **Integrated DEsign Automation Laboratory (IDEAL)** {style="color: purple"}, Department of Mechanical Engineering at Northwestern University. His main research interests deal with material and structural design and optimization, multiscale methods and fracture modeling in heterogeneous materials, as well as bio-inspired materials and data-driven science.
