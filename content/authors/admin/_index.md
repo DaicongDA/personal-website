@@ -18,14 +18,14 @@ organizations:
   url: https://ideal.mech.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interests deal with material and structural design and optimization, multiscale methods and fracture modeling in heterogeneous materials, as well as bio-inspired materials and data-driven science.
+bio: My current research interests majorly deal with mechanics of materials, design optimization, and data-driven paradigm, with applications to advanced manufacturing, soft robotics, and multifunctional materials and structures. 
 
 interests:
-- Structural Optimization
-- Material Design
-- Multiscale Modeling
-- Fracture Modeling
+- Additive Manufacturing
+- Soft Robotics
 - Machine Learning
+- Design
+- Mechanics
 
 education:
   courses:
@@ -69,4 +69,4 @@ email: ""
 # - Visitors
 ---
 
-Daicong DA is a postdoctoral scholar in the **Integrated DEsign Automation Laboratory (IDEAL)**, Department of Mechanical Engineering at Northwestern University. His main research interests deal with material and structural design and optimization, multiscale methods and fracture modeling in heterogeneous materials, as well as bio-inspired materials and data-driven science.
+Daicong DA is a postdoctoral scholar in the **Integrated DEsign Automation Laboratory (IDEAL)**, Department of Mechanical Engineering at Northwestern University. His current research interests majorly deal with mechanics of materials, design optimization, and data-driven paradigm, with applications to advanced manufacturing, soft robotics, and multifunctional materials and structures. 
